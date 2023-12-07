@@ -6,3 +6,5 @@
     int b = int.Parse(Console.ReadLine());
     System.Console.WriteLine($"The sum of both numbers is {a+b}");
 }
+
+SumOfNumbers();
